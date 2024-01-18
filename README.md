@@ -1,4 +1,4 @@
-![logo](https://github.com/Sunnykr01/Sunnykr01/blob/main/background.jpg)
+![logo](https://github.com/Sunnykr01/Sunnykr01/blob/main/White Minimalist Profile LinkedIn Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
